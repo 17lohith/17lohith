@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+LOHITH+KRM;Student+at+Karunya+Institute+of+Science+and+Technology;AI+%7C+Data+Science+%7C+Web+Dev+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Lohith+KRM" alt="Typing Animation" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Turning ideas into reality with code ⚡</h3>
+<h3 align="center">⚡ Crafting Code | Building Ideas | Exploring Tech ⚡</h3>
 
 ---
 
@@ -13,11 +13,11 @@
 ### 🔹 Languages  
 `Python` | `C` | `Java` | `HTML` | `CSS` | `JavaScript`  
 
-### 🔹 Web & UI  
-`Streamlit` | `Tkinter` | `JavaFX` (Java GUI)  
+### 🔹 Frontend & UI  
+`Swing` | `JavaFX` | `Streamlit` | `Tkinter`  
 
 ### 🔹 Backend & APIs  
-`Flask` | `FastAPI` | `Make.com`  
+`Spring Boot` | `Flask` | `FastAPI`  
 
 ### 🔹 DevOps & Tools  
 `Docker` | `Kubernetes` | `GitHub Actions` | `Ollama`  
@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=17lohith&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17lohith&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=17lohith&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17lohith&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
@@ -40,14 +40,14 @@
 🔹 [Automated Report Generation](https://github.com/17lohith/AUTOMATED_REPORT_GENERATION)  
 🔹 [AI Chatbot](https://github.com/17lohith/AI_CHATBOT)  
 🔹 [Machine Learning Model Implementation](https://github.com/17lohith/MACHINE_LEARNING_MODEL_IMPLEMENTATION)  
-🔹 [Blog App](https://github.com/17lohith) *(your blog application project)*  
+🔹 [Blog App](https://github.com/17lohith)  
 
 ---
 
-## 🎯 A Little About Me  
-✨ Always curious, always learning  
-🚀 Love experimenting with **AI + Web + Automation**  
-💡 Believe in **"Code. Create. Conquer."**  
+## 🎯 About Me  
+✨ Innovator at heart, coder by passion  
+🚀 Turning ideas into reality through **AI + Web + Automation**  
+💡 Motto: *"Code. Create. Conquer."*  
 
 ---
 
@@ -66,6 +66,13 @@
 
 ---
 
+## 🤝 Collaboration  
+💼 **Name:** Lohith KRM  
+📧 **Email:** [lohithkrm17@hotmail.com](mailto:lohithkrm17@hotmail.com)  
+🐦 **Twitter:** [@17_lohith](https://twitter.com/17_lohith)  
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=00FFB9&style=for-the-badge" alt="Profile views" />
 </p>
