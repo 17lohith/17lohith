@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Lohith+KRM" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Lohith+KRM" alt="Neon Blink Typing Animation" />
 </p>
 
 ---
@@ -8,22 +8,50 @@
 
 ---
 
+## 👨‍🎓 About Me  
+I’m **Lohith KRM**, currently studying at **Karunya Institute of Science & Technology**.  
+💡 I love blending **logic with creativity** — whether it’s building smart systems or designing clean UIs.  
+
+✨ My journey is simple: *learn deeply, build consistently, and grow steadily.*  
+
+---
+
 ## 🛠 Tech Stack  
 
-### 🔹 Languages  
-`Python` | `C` | `Java` | `HTML` | `CSS` | `JavaScript`  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🔹 Frontend & UI  
-`Swing` | `JavaFX` | `Streamlit` | `Tkinter`  
+<p align="center">
+  <img src="https://img.shields.io/badge/Swing-008000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-5D3FD3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🔹 Backend & APIs  
-`Spring Boot` | `Flask` | `FastAPI`  
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### 🔹 DevOps & Tools  
-`Docker` | `Kubernetes` | `GitHub Actions` | `Ollama`  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-FF00FF?style=for-the-badge&logoColor=white" />
+</p>
 
-### 🔹 Databases  
-`MySQL` | `SQLite` | `CSV/JSON`  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSV%2FJSON-FFD700?style=for-the-badge&logo=files&logoColor=black" />
+</p>
 
 ---
 
@@ -41,13 +69,6 @@
 🔹 [AI Chatbot](https://github.com/17lohith/AI_CHATBOT)  
 🔹 [Machine Learning Model Implementation](https://github.com/17lohith/MACHINE_LEARNING_MODEL_IMPLEMENTATION)  
 🔹 [Blog App](https://github.com/17lohith)  
-
----
-
-## 🎯 About Me  
-✨ Innovator at heart, coder by passion  
-🚀 Turning ideas into reality through **AI + Web + Automation**  
-💡 Motto: *"Code. Create. Conquer."*  
 
 ---
 
@@ -74,5 +95,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=00FFB9&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=00FF00&style=for-the-badge" alt="Profile views" />
 </p>
