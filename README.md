@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1200&color=FF1493&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=HEY+WELCOME+❤️" alt="Typing Animation Pink" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1200&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=I'm+Lohith+KRM" alt="Typing Animation Gold" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1200&color=1E90FF&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Let's+Build+Something+Awesome+🚀" alt="Typing Animation Blue" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving hand" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1200&color=FF1493&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=HEY+WELCOME+❤️;I'm+Lohith;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
 </p>
 
 ---
