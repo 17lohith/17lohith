@@ -1,6 +1,8 @@
 <p align="center">
-  <!-- Replace the src link with your generated GIF -->
-  <img src="https://your-uploaded-gif-link.gif" alt="Typing Animation" width="800" />
+  <!-- single typing animation: types one line, erases, types next, erases, loops -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2200&pause=900&color=FF1493&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=90&lines=HEY+WELCOME+%E2%9D%A4%EF%B8%8F;I%27m+Lohith+KRM;Let%27s+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing Animation — HEY WELCOME → I'm Lohith → Let's Build Something Awesome" />
+  <!-- small waving GIF (optional) -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="Waving hand" />
 </p>
 
 ---
