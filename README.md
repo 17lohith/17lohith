@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1200&color=FF1493&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=HEY+WELCOME+❤️;I'm+Lohith;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
+  <!-- Replace the src link with your generated GIF -->
+  <img src="https://your-uploaded-gif-link.gif" alt="Typing Animation" width="800" />
 </p>
 
 ---
