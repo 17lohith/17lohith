@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=HELLO+!+WELCOME " alt="Neon Blink Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=80&lines=HEY+WELCOME+!;I'm+Lohith+KRM;Let's+Build+Something+Awesome+🚀" alt="Neon Blink Typing Animation" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving hand" />
 </p>
 
