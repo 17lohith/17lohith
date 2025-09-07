@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello !+%F0%9F%91%8B+I'm+Lohith+KRM" alt="Neon Blink Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello+!+<img+src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'+width='35px'>+I'm+Lohith+KRM" alt="Neon Blink Typing Animation" />
 </p>
 
 ---
@@ -80,20 +80,4 @@ I’m **Lohith KRM**, currently studying at **Karunya Institute of Science & Tec
   <a href="https://www.linkedin.com/in/lohith-krm-a5028b326">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/17_lohith">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🤝 Collaboration  
-💼 **Name:** Lohith KRM  
-📧 **Email:** [lohithkrm17@hotmail.com](mailto:lohithkrm17@hotmail.com)  
-🐦 **Twitter:** [@17_lohith](https://twitter.com/17_lohith)  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=00FF00&style=for-the-badge" alt="Profile views" />
-</p>
+  <a href="https://twitter.com/17_lohith_
