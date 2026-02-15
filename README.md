@@ -1,102 +1,104 @@
 <p align="center">
-  <!-- single typing animation: types one line, erases, types next, erases, loops -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=90&lines=HEY+WELCOME+%E2%9D%A4%EF%B8%8F;I%27m+Lohith+KRM;Let%27s+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing Animation — HEY WELCOME → I'm Lohith → Let's Build Something Awesome" />
-  <!-- small waving GIF (optional) -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="Waving hand" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=400&size=36&duration=3000&pause=1500&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=90&cursor=true&lines=Hey+Welcome+%E2%9D%A4%EF%B8%8F;I%27m+LOHITH+KRM" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <b>Building scalable software, AI-driven systems, and modern applications.</b>
 </p>
 
 ---
 
-<h3 align="center">⚡ Crafting Code | Building Ideas | Exploring Tech ⚡</h3>
+# LOHITH KRM
+
+**B.Tech CSE Student | Software Developer | AI, Full-Stack & Mobile Developer**  
+Karunya Institute of Science & Technology
+
+I’m a developer focused on building reliable, scalable, and real-world software products. My interests span **AI systems, full-stack platforms, mobile applications, and blockchain-based solutions**. I care about clean architecture, performance, and turning ideas into usable products.
+
+My goal is to **build products that can scale from prototype to production** — whether that’s for startups, research, or real users.
 
 ---
 
-## 👨‍🎓 About Me  
-I’m **Lohith KRM**, currently studying at **Karunya Institute of Science & Technology**.  
-💡 I love blending **logic with creativity** — whether it’s building smart systems or designing clean UIs.  
+## 🧭 What I Build
 
-✨ My journey is simple: *learn deeply, build consistently, and grow steadily.*  
+- AI-powered applications and intelligent systems  
+- Full-stack web platforms and APIs  
+- Mobile applications for Android & iOS  
+- Backend services with scalable architectures  
+- Blockchain-based application concepts and prototypes  
+
+---
+## 🛠️ Skills & Technologies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ■ Specialties
+
+🟦 **AI & Intelligent Systems**  
+<kbd>Machine Learning</kbd> <kbd>LLM Systems (Ollama)</kbd>
+
+🟩 **Backend Engineering**  
+<kbd>Spring Boot</kbd> <kbd>FastAPI</kbd> <kbd>Flask</kbd>
 
 ---
 
-## 🛠 Tech Stack  
+### ■ Core Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+💻 **Languages**  
+<kbd>Python</kbd> <kbd>C</kbd> <kbd>Java</kbd> <kbd>JavaScript</kbd>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Swing-008000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-5D3FD3?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+🗄️ **Databases**  
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+🚀 **DevOps & Tooling**  
+<kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>GitHub Actions</kbd>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-FF00FF?style=for-the-badge&logoColor=white" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSV%2FJSON-FFD700?style=for-the-badge&logo=files&logoColor=black" />
-</p>
+### ■ Product Stack
 
----
+🌐 **Frontend & Mobile**  
+<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Android</kbd> <kbd>iOS</kbd>
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=17lohith&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17lohith&theme=tokyonight&hide_border=true" height="150" />
-</p>
+🖥️ **UI & App Frameworks**  
+<kbd>Swing</kbd> <kbd>JavaFX</kbd> <kbd>Tkinter</kbd> <kbd>Streamlit</kbd>
+
+⛓️ **Blockchain**  
+<kbd>DApp Development</kbd> <kbd>Smart Contracts</kbd>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 
 ---
 
-## 🌟 Featured Projects  
-🔹 [API Integration & Data Visualization](https://github.com/17lohith/API-INTEGRATION-AND-DATA-VISUALIZATION)  
-🔹 [Automated Report Generation](https://github.com/17lohith/AUTOMATED_REPORT_GENERATION)  
-🔹 [AI Chatbot](https://github.com/17lohith/AI_CHATBOT)  
-🔹 [Machine Learning Model Implementation](https://github.com/17lohith/MACHINE_LEARNING_MODEL_IMPLEMENTATION)  
-🔹 [Blog App](https://github.com/17lohith)  
+## 🎯 Current Focus
+
+- Building AI-powered and data-driven applications  
+- Designing scalable backend systems and APIs  
+- Developing cross-platform mobile and web products  
+- Exploring applied AI, system design, and blockchain use-cases  
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="mailto:lohithkrm17@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lohith-krm-a5028b326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/17_lohith">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+## 🌐 Contact
 
----
-
-## 🤝 Collaboration  
-💼 **Name:** Lohith KRM  
-📧 **Email:** [lohithkrm17@hotmail.com](mailto:lohithkrm17@hotmail.com)  
-🐦 **Twitter:** [@17_lohith](https://twitter.com/17_lohith)  
+- 📧 Email: **lohithkrm17@hotmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/lohith-krm-a5028b326  
+- 🐦 Twitter: https://twitter.com/17_lohith  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=00FF00&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=17lohith&label=Profile%20views&color=9CA3AF&style=for-the-badge" alt="Profile views" />
 </p>
